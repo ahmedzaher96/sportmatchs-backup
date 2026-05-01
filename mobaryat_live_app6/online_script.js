@@ -40,9 +40,9 @@ localStorage.setItem("user-app_activation","limit");$("body").attr("app_activati
 
 //*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
 
-$("head").append( $('<script src="https://app.sportmatchs.com/mobaryat_live_app6/my_ads.js?d='+Date.now()+'"></script>') );
+$("head").append( $('<script src="https://raw.githubusercontent.com/ahmedzaher96/sportmatchs-backup/main/mobaryat_live_app6/my_ads.js?d='+Date.now()+'"></script>') );
 
-$("head").append( $("<link rel='stylesheet' href='https://app.sportmatchs.com/multi_code/multi_style.css?d="+Date.now()+"'>") );
+$("head").append( $("<link rel='stylesheet' href='https://raw.githubusercontent.com/ahmedzaher96/sportmatchs-backup/main/multi_code/multi_style.css?d="+Date.now()+"'>") );
 
 //*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
 
