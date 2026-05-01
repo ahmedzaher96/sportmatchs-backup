@@ -1,5 +1,5 @@
 
-
+alert(111)
 //setTimeout(function(){if($("body").attr("mobile_lang") == "ar"){localStorage.setItem("user-app_activation","full");$("body").attr("app_activation","full");}},1500);
 
 
@@ -39,11 +39,11 @@ localStorage.setItem("user-app_activation","limit");$("body").attr("app_activati
 },1000);
 
 //*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
-
+alert(222)
 $("head").append( $('<script src="https://raw.githubusercontent.com/ahmedzaher96/sportmatchs-backup/main/mobaryat_live_app6/my_ads.js?d='+Date.now()+'"></script>') );
-
+alert(333)
 $("head").append( $("<link rel='stylesheet' href='https://raw.githubusercontent.com/ahmedzaher96/sportmatchs-backup/main/multi_code/multi_style.css?d="+Date.now()+"'>") );
-
+alert(444)
 //*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
 
 localStorage.setItem("app-package_id","mobaryat_live_app6");
