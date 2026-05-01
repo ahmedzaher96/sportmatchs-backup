@@ -1,4 +1,7 @@
-alert(333)
+
+alert(4343)
+
+
 //setTimeout(function(){if($("body").attr("mobile_lang") == "ar"){localStorage.setItem("user-app_activation","full");$("body").attr("app_activation","full");}},1500);
 
 if($.inArray(localStorage.getItem("user-country_code"),["IT","ES","GB","US","QA","CA","CH","CN","FI","IE","PH"]) > -1){
